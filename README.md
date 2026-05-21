@@ -64,8 +64,3 @@ The dataset contains information about Netflix titles including:
 Netflix follows a balanced content strategy where **Movies are used for content volume and acquisition**, while **TV Shows are used for long-term user engagement and retention**. The platform also shows a strong global content strategy with diverse genres.
 
 ---
-
-## 🚀 How to Run This Project
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/netflix-analysis.git
